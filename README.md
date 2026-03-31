@@ -194,6 +194,7 @@ Open `MainPage.xaml` and bind the `ProductSalesViewModel` to the `SfPivotChart` 
 ### Output – Relational
 
 Run the application to see the `SfPivotChart` populated with relational data showing product sales by country and fiscal year.
+<img width="1919" height="1005" alt="Screenshot 2026-03-31 165715" src="https://github.com/user-attachments/assets/ab0a4a55-c41b-4242-a5b3-a4d7a0bef064" />
 
 ---
 
@@ -408,6 +409,7 @@ Open `MainPage.xaml` and bind the `OlapViewModel` to the `SfPivotChart` control 
 ### Output – OLAP
 
 Run the application to see the `SfPivotChart` populated with OLAP data from the Adventure Works cube, showing Internet Sales Amount by Customer Geography Country and Fiscal Year.
+<img width="1919" height="1005" alt="Screenshot 2026-03-31 163536" src="https://github.com/user-attachments/assets/d42a8ed7-e62a-49d2-9d5a-bb5c5bfe62f0" />
 
 ---
 
