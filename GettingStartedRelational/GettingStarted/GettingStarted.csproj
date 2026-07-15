@@ -154,12 +154,8 @@
     <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform">
       <Version>6.2.14</Version>
     </PackageReference>
-    <PackageReference Include="Syncfusion.SfChart.UWP">
-      <Version>33.1.46</Version>
-    </PackageReference>
-    <PackageReference Include="Syncfusion.SfPivotChart.UWP">
-      <Version>33.1.46</Version>
-    </PackageReference>
+    <PackageReference Include="Syncfusion.SfChart.UWP" Version="*" />
+    <PackageReference Include="Syncfusion.SfPivotChart.UWP" Version="*" />
   </ItemGroup>
   <ItemGroup />
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
